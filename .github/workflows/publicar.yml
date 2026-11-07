@@ -1,0 +1,22 @@
+name: Publicar no Zernio
+on:
+  workflow_dispatch:
+    inputs:
+      teste:
+        description: "Só testar (não publica)"
+        type: boolean
+        default: true
+      so:
+        description: "Só este vídeo (ex.: burro_02_abrir_porta). Vazio = todos"
+        default: ""
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { lfs: false }
+      - run: python publicar.py
+        env:
+          TESTE: ${{ inputs.teste }}
+          SO: ${{ inputs.so }}
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}

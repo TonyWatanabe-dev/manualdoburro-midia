@@ -1,3 +1,3 @@
-# Manual do Burro - mídia
+# Manual do Burro — mídia
 
-Vídeos finais para agendamento nas redes.
+Vídeos e capas dos Shorts. Agendamento: Actions → "Publicar no Zernio" (secret ZERNIO_API_KEY), lendo posts.json.
