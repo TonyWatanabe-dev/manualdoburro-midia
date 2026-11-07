@@ -43,5 +43,23 @@
     "titulo_youtube": "Como sentar numa cadeira 🪑 | Manual do Burro",
     "legenda": "A tecnologia mais avançada da humanidade: a cadeira. Leia as placas, burro. 🪑\n\n#humor #tutorial #animação #manualdoburro #shorts",
     "comentario_fixado": "Quem viu a placa no primeiro segundo? Comenta aqui. 🫏"
+  },
+  {
+    "id": "burro_06_mandar_audio",
+    "video": "videos/ep06-mandar-audio.mp4",
+    "capa": "capas/ep06-capa.png",
+    "quando": "2026-11-12T12:00:00",
+    "titulo_youtube": "Como mandar um áudio 🎙️ | Manual do Burro",
+    "legenda": "Pra você que manda áudio de 7 minutos pra dizer \"tô chegando\". Seja breve, burro. 🎙️\n\n#humor #tutorial #animação #manualdoburro #shorts",
+    "comentario_fixado": "Marca aquele amigo dos áudios de 7 minutos. 🫏"
+  },
+  {
+    "id": "burro_07_tirar_selfie",
+    "video": "videos/ep07-tirar-selfie.mp4",
+    "capa": "capas/ep07-capa.png",
+    "quando": "2026-11-13T12:00:00",
+    "titulo_youtube": "Como tirar uma selfie 📸 | Manual do Burro",
+    "legenda": "Ângulo perfeito, sorriso elegante e zero papada. Em teoria. 📸\n\n#humor #tutorial #animação #manualdoburro #shorts",
+    "comentario_fixado": "Qual foi a pior selfie que você já tirou? Pode confessar. 🫏"
   }
 ]
