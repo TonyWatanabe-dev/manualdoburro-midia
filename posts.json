@@ -25,5 +25,14 @@
     "titulo_youtube": "Como ligar uma lâmpada 💡 | Manual do Burro",
     "legenda": "Tecnologia demais pra você? Calma, o Professor explica. Mais ou menos. 💡\n\n#humor #tutorial #animação #manualdoburro #shorts",
     "comentario_fixado": "Alguém aí sabe onde fica o interruptor? Pergunta pro Professor. 🫏"
+  },
+  {
+    "id": "burro_04_ferver_agua",
+    "video": "videos/ep04-ferver-agua.mp4",
+    "capa": "capas/ep04-capa.png",
+    "quando": "2026-11-10T12:00:00",
+    "titulo_youtube": "Como ferver água 🔥 | Manual do Burro",
+    "legenda": "Se você já queimou água, esse tutorial é pra você. Nível: chef. 🔥\n\n#humor #tutorial #animação #manualdoburro #shorts",
+    "comentario_fixado": "Achou o erro do Professor? Comenta aqui antes que ele perceba. 🫏"
   }
 ]
